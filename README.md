@@ -130,6 +130,7 @@ Channels:
 * [School of Thought](https://www.schoolofthought.org/)
 * [Your logical fallacy is](https://yourlogicalfallacyis.com/)
 * [Your bias is](https://yourbias.is/)
+* [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) - Interactive quiz testing if you can spot cognitive biases in real decisions, not just define them. Open source, 8,000+ players.
 * [My Mental Models](https://www.mymentalmodels.info/)
 * [Think Mental Models](http://www.thinkmentalmodels.com/)
 
